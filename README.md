@@ -61,7 +61,7 @@ The objective is to understand sales performance across categories, regions, and
 
 ## 📂 Files Included
 - Dataset (CSV)  
-- Power BI Dashboard (.pbix)  
+- Power BI Dashboard (Sales_analysis_dashboard.pbix)  
 
 ---
 
